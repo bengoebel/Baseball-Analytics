@@ -19,5 +19,4 @@ Date: August 24th, 2017
 
 Sources:
 1. Python for Data Analysis by Wes McKinney
-2. www.packtpub.com/mapt/book/big_data_and_business_
-   intelligence/9781849513265/1/ch01lvl1sec16/plotting-multiple-bar-charts
+2. www.packtpub.com/mapt/book/big_data_and_business_intelligence/9781849513265/1/ch01lvl1sec16/plotting-multiple-bar-charts
